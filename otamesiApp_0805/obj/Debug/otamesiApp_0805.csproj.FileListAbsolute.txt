@@ -1,0 +1,12 @@
+c:\users\chouakuma\documents\visual studio 2013\Projects\otamesiApp_0805\otamesiApp_0805\bin\Debug\otamesiApp_0805.exe.config
+c:\users\chouakuma\documents\visual studio 2013\Projects\otamesiApp_0805\otamesiApp_0805\bin\Debug\otamesiApp_0805.exe
+c:\users\chouakuma\documents\visual studio 2013\Projects\otamesiApp_0805\otamesiApp_0805\bin\Debug\otamesiApp_0805.pdb
+c:\users\chouakuma\documents\visual studio 2013\Projects\otamesiApp_0805\otamesiApp_0805\obj\Debug\otamesiApp_0805.csprojResolveAssemblyReference.cache
+c:\users\chouakuma\documents\visual studio 2013\Projects\otamesiApp_0805\otamesiApp_0805\obj\Debug\otamesiApp_0805.Form1.resources
+c:\users\chouakuma\documents\visual studio 2013\Projects\otamesiApp_0805\otamesiApp_0805\obj\Debug\otamesiApp_0805.Properties.Resources.resources
+c:\users\chouakuma\documents\visual studio 2013\Projects\otamesiApp_0805\otamesiApp_0805\obj\Debug\otamesiApp_0805.csproj.GenerateResource.Cache
+c:\users\chouakuma\documents\visual studio 2013\Projects\otamesiApp_0805\otamesiApp_0805\obj\Debug\otamesiApp_0805.exe
+c:\users\chouakuma\documents\visual studio 2013\Projects\otamesiApp_0805\otamesiApp_0805\obj\Debug\otamesiApp_0805.pdb
+C:\git\otamesiApp_0805\otamesiApp_0805\bin\Debug\otamesiApp_0805.exe.config
+C:\git\otamesiApp_0805\otamesiApp_0805\obj\Debug\otamesiApp_0805.exe
+C:\git\otamesiApp_0805\otamesiApp_0805\obj\Debug\otamesiApp_0805.pdb
