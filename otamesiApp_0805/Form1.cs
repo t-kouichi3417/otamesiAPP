@@ -19,7 +19,8 @@ namespace otamesiApp_0805
 
         private void buttonTest_Click(object sender, EventArgs e)
         {
-            //string checkstring = this.txtBoxTest.Text;
+            //GitHub用にコメント修正
+            //0812にSourceTreeインスト設定
             if (string.IsNullOrWhiteSpace(txtBoxTest.Text))
             {
                  MessageBox.Show("文字を入力してください ^^;");
